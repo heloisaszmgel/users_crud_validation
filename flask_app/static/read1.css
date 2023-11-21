@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 40px;
+    max-width: 600px;
+    margin: 0 auto;
+    }
+
+    h1 {
+    color: #007bff;
+    }
+
+    p {
+    margin: 10px 0;
+    }
+
+    a {
+    color: #007bff;
+    text-decoration: none;
+    margin-right: 10px;
+    }
+
+    a:hover {
+    text-decoration: underline;
+    }
+
+    .user-info {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    }
+
+    .user-info a {
+    color: #007bff;
+    text-decoration: none;
+    margin-right: 10px;
+    }
+
+    .user-info a:hover {
+    text-decoration: underline;
+    }
